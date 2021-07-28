@@ -47,16 +47,5 @@
   		<version>3.1.0</version>
   	</dependency>
   </dependencies>
-	<distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>ip-172-31-30-134-releases</name>
-        <url>http://34.207.150.253:8081/artifactory/maven-repo</url>
-    </repository>
-    <snapshotRepository>
-        <id>snapshots</id>
-        <name>ip-172-31-30-134-snapshots</name>
-        <url>http://34.207.150.253:8081/artifactory/maven-repo</url>
-    </snapshotRepository>
-</distributionManagement>
+
 </project>
